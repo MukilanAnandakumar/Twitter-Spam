@@ -1,3 +1,4 @@
+
 # Sentiment Analysis to Detect and Prevent Twitter Spam
 
 A comprehensive machine learning and deep learning project for detecting spam in text messages (SMS/Twitter) while simultaneously performing sentiment analysis.
@@ -67,3 +68,4 @@ python src/predict.py
 
 ---
 Developed as a complete Spam Detection and Sentiment Analysis Pipeline.
+=======
